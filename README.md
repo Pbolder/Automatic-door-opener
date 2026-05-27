@@ -21,6 +21,7 @@ Code: <br/>
 <img src="images/CodeDO.png" width="70%" alt="Automatic door opener Arduino knock pattern code"/>
 
 <br />
+The Arduino continuously monitors the vibration sensor for knocks and, using timing-based logic, determines whether a knock pattern matches the programmed sequence. If the correct pattern is detected, the Arduino actuates a servo motor to pull the door handle mechanism before automatically resetting and waiting for the next input.
 <br />
 CAD: <br/>
 <img src="images/CaseDO.png" width="70%" alt="CAD model of automatic door opener case"/>

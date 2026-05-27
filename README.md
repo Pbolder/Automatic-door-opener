@@ -1,6 +1,6 @@
 <h1>Automatic-Door-Opener</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtube.com/shorts/PLir-r9bzig?feature=share)
 
 
 <h2>Description</h2>

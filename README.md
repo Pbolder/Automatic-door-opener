@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
--
+Designed and built an automatic door opener using an Arduino, servo motor, and vibration sensor. The project was created to provide a keyless entry method for my dorm room and make access more convenient for friends. The system can be programmed with different knock patterns and only opens when the correct pattern is detected.
 <br />
 
 
@@ -17,40 +17,17 @@
 <h2>Design and Build Process:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Code: <br/>
+<img src="images/CodeDO.png" width="70%" alt="Automatic door opener Arduino knock pattern code"/>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<br />
+<br />
+CAD: <br/>
+<img src="images/CaseDO.png" width="70%" alt="CAD model of automatic door opener case"/>
+
+<br />
+<br />
+Finished Project: <br/>
+  <img src="images/WiringDO.JPG" width="60%" alt="Automatic door opener internal wiring and Arduino circuit"/>
+  <img src="images/FinalDO.JPG" width="60%" alt="Completed automatic door opener enclosure"/>
+</p>
